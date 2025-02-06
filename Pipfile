@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 django = "*"
+psycopg = "*"
+python-dotenv = "*"
+openai = "1.13.3"
 
 [dev-packages]
 
