@@ -1,5 +1,5 @@
-# AI-Powered Chatbot for Supplier and Product Information
-This project is an AI-powered chatbot built with Django, allowing users to query a product and supplier database using natural language processing (NLP). The chatbot fetches relevant data from a PostgreSQL database and summarizes the results using an open-source Large Language Model (LLM). The frontend uses HTML and Bootstrap, while the backend is powered by Python and Django.
+# Fetchly
+Fetchly is an AI-powered chatbot built with Django, allowing users to query a product and supplier database using natural language processing (NLP). The chatbot fetches relevant data from a PostgreSQL database and summarizes the results using an open-source Large Language Model (LLM). The frontend uses HTML and Bootstrap, while the backend is powered by Python and Django.
 
 ## Features
 - Natural language querying of products and suppliers.
